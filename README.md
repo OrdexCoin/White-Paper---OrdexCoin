@@ -90,7 +90,7 @@ All contributions are recorded transparently on-chain or in public repositories.
 
 ### 3.2 Deflationary Emission Schedule  
 - **Halving** every `210,000 blocks` (~146 days)  
-- Max supply: **8,500,000 OXC**  
+- Max supply: **8,450,000 OXC**  
 - Predictable issuance → value anchored in scarcity, not promises.
 
 ### 3.3 Optional Privacy Layer 🕵️  
