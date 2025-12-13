@@ -58,7 +58,7 @@ The creator’s anonymity is not concealment — it is **systemic defense**. It 
 | ❌ Team/Founder tokens | Prohibited |
 
 ### 2.2 Transparent Premine (1.17%)  
-Only **100,000 OXC** (1.17% of the fixed **8.5M OXC** supply) were pre-mined:
+Only **50,000 OXC** (1.17% of the fixed **8.45M OXC** supply) were pre-mined:
 
 | Allocation | Purpose |
 |-----------|---------|
@@ -84,7 +84,7 @@ All contributions are recorded transparently on-chain or in public repositories.
 | Parameter | Value | Rationale |
 |---------|-------|----------|
 | 🧮 Hashing Algorithm | `SHA-256` | Battle-tested, secure, accessible hardware |
-| ⏱️ Block Time | `1 minute` | Fast confirmation + orphan mitigation |
+| ⏱️ Block Time | `10 minute` | Fast confirmation + orphan mitigation |
 | 💰 Initial Block Reward | `20 OXC` | Strong early incentives, no hyperinflation |
 | 📈 Difficulty Adjustment | Every `120 blocks` (~2 hours) | Responsive to network hashrate shifts |
 
